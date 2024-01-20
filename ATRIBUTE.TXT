@@ -1,0 +1,10 @@
+value
+readonly 
+disabled
+size="50"
+pattern
+placeholder
+required
+title
+autofocus
+novalidate
